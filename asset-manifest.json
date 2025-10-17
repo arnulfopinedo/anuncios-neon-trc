@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/anuncios-neon-trc/static/js/main.83a425c1.js",
+    "main.js": "/anuncios-neon-trc/static/js/main.e45c08a3.js",
     "index.html": "/anuncios-neon-trc/index.html",
-    "main.83a425c1.js.map": "/anuncios-neon-trc/static/js/main.83a425c1.js.map"
+    "main.e45c08a3.js.map": "/anuncios-neon-trc/static/js/main.e45c08a3.js.map"
   },
   "entrypoints": [
-    "static/js/main.83a425c1.js"
+    "static/js/main.e45c08a3.js"
   ]
 }
