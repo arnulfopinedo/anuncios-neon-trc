@@ -6,11 +6,11 @@ const Footer = () => {
                     <p>Copyrigth 2025. Todos los derechos registrados.</p>
                 </section>
                 <section className="footer-menu">
-                    <a className='footer-menu-link'>Inicio</a>
-                    <a className='footer-menu-link'>Acerca de nosotros</a>
-                    <a className='footer-menu-link'>Blog</a>
-                    <a className='footer-menu-link'>Contacto</a>
-                    <a className='footer-menu-link'>Proyectos</a>
+                    <a href="/home" className='footer-menu-link'>Inicio</a>
+                    <a href="/home" className='footer-menu-link'>Acerca de nosotros</a>
+                    <a href="/home" className='footer-menu-link'>Blog</a>
+                    <a href="/home" className='footer-menu-link'>Contacto</a>
+                    <a href="/home" className='footer-menu-link'>Proyectos</a>
                 </section>
             </footer>
         </>
