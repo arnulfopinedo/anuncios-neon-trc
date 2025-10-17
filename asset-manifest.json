@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/anuncios-neon-trc/static/css/main.ae6ebd05.css",
-    "main.js": "/anuncios-neon-trc/static/js/main.d8b6eff8.js",
+    "main.js": "/anuncios-neon-trc/static/js/main.27b86ce3.js",
     "static/media/portada.PNG": "/anuncios-neon-trc/static/media/portada.29fa3a8a5507ee3cc822.PNG",
     "static/media/logotipo.PNG": "/anuncios-neon-trc/static/media/logotipo.6bc0b3ca43f7be3c8c85.PNG",
     "index.html": "/anuncios-neon-trc/index.html",
     "main.ae6ebd05.css.map": "/anuncios-neon-trc/static/css/main.ae6ebd05.css.map",
-    "main.d8b6eff8.js.map": "/anuncios-neon-trc/static/js/main.d8b6eff8.js.map"
+    "main.27b86ce3.js.map": "/anuncios-neon-trc/static/js/main.27b86ce3.js.map"
   },
   "entrypoints": [
     "static/css/main.ae6ebd05.css",
-    "static/js/main.d8b6eff8.js"
+    "static/js/main.27b86ce3.js"
   ]
 }
