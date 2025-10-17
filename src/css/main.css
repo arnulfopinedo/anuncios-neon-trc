@@ -1,5 +1,20 @@
-body {
-  background: #000000;
+.header, .footer {
+  width: 100%;
+  display: flex;
   padding: 10px;
-  color: #ffffff;
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: center;
+}
+.header img, .footer img {
+  width: 6%;
+}
+.header .header-menu, .header .footer-menu, .footer .header-menu, .footer .footer-menu {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+.main-img img {
+  width: 100%;
 }/*# sourceMappingURL=main.css.map */

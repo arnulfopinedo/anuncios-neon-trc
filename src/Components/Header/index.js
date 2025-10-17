@@ -1,21 +1,18 @@
-import mas from '../../img/more-horizontal.svg';
-import atras from '../../img/chevron-left.svg';
-import siguiente from '../../img/chevron-right.svg';
+import logotipo from '../../img/logotipo.PNG';
 
 const Header = () => {
     return (
         <>
-            <article className="header">
-                <section className="header-nav">
-                    <div className="header-nav-i">
-                        <div className="header-nav-i-acciones">
-                            <i><img src={mas} alt="Más"/></i>
-                            <i><img src={atras} alt="Atras"/></i>
-                            <i><img src={siguiente} alt="siguiente"/></i>
-                        </div>
-                    </div>
-                </section>
-            </article>
+          <header className='header'>
+            <img src={logotipo} alt='Logotipo'/>  
+            <section className='header-menu'>
+                <a className='header-menu__link'>Inicio</a>
+                <a className='header-menu__link'>Acerca de nosotros</a>
+                <a className='header-menu__link'>Blog</a>
+                <a className='header-menu__link'>Contacto</a>
+                <a className='header-menu__link'>Proyectos</a>
+            </section>
+          </header>
         </>        
     )
 }
