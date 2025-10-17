@@ -1,7 +1,13 @@
 function App() {
   return (
     <>
-      <h1>Github pages PÁGINA</h1>
+      <div className="container">
+        <div className="row">
+          <div className="col">
+            <h1 className="text-center">BOOTSTRAP</h1>
+          </div>
+        </div>
+      </div>
     </>
   );
 }
