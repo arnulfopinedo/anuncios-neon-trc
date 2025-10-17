@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>Github pages</h1>
+      <h1>Github pages PÁGINA</h1>
     </>
   );
 }
