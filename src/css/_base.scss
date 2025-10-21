@@ -1,0 +1,13 @@
+@mixin flexbox {
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    box-sizing: border-box;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px 20px;
+}
+
+@mixin phones {
+    @media screen and (max-width: 48rem) { @content };
+}

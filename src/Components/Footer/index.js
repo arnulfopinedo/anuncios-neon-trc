@@ -7,7 +7,7 @@ const Footer = () => {
                 </section>
                 <section className="footer-menu">
                     <a href="/home" className='footer-menu-link'>Inicio</a>
-                    <a href="/home" className='footer-menu-link'>Acerca de nosotros</a>
+                    <a href="/home" className='footer-menu-link'>Sobre nosotros</a>
                     <a href="/home" className='footer-menu-link'>Blog</a>
                     <a href="/home" className='footer-menu-link'>Contacto</a>
                     <a href="/home" className='footer-menu-link'>Proyectos</a>

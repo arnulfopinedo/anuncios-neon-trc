@@ -5,6 +5,7 @@
   box-sizing: border-box;
   justify-content: space-between;
   align-items: center;
+  gap: 10px 20px;
 }
 .header img, .footer img {
   width: 6%;
@@ -13,6 +14,18 @@
   display: flex;
   gap: 30px;
   align-items: center;
+}
+@media screen and (max-width: 48rem) {
+  .header, .footer {
+    justify-content: center;
+    font-size: 1rem;
+  }
+  .header img, .footer img {
+    display: none;
+  }
+  .header p, .footer p {
+    display: none;
+  }
 }
 
 .main-img img {
